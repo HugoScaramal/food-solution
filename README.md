@@ -2,7 +2,7 @@
 This project is intended to build a mobile/web application to allow online order for small restaurants.
 
 ## Features
-- Food Online order (customer)
+- [Online order (customer)](features/online-order)
   - Menu
   - Shopping Bag
   - Payment
