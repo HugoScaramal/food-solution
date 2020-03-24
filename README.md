@@ -17,7 +17,8 @@ This project is intended to build a mobile/web application to allow online order
 The following techonologies will be used on this project:
 - Microsoft Azure (Cloud Platform)
 - Front-end
-  - Angular
+  - Angular (web app)
+  - Ionic (ios/android app)
   - TypeScript
   - [Compodoc (documentation)](https://compodoc.app) - or similar
 - Mobile
