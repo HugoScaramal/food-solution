@@ -15,10 +15,12 @@ The following techonologies will be used on this project:
 - Front-end
   - Angular
   - TypeScript
+- Mobile
+  - To be defined
 - Backend
   - C#
   - ASP.Net Core (Web API)
   - .Net Core Entity Framework (ORM)
 - Database
-  - Mongo DB or similar
+  - Azure SQL database
 
