@@ -19,6 +19,7 @@ The following techonologies will be used on this project:
 - Front-end
   - Angular
   - TypeScript
+  - [Compodoc (documentation)](https://compodoc.app)
 - Mobile
   - To be defined
 - Backend
