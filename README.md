@@ -3,6 +3,10 @@ This project is intended to build a mobile/web application to allow online order
 
 ## Features
 - Food Online order (customer)
+  - Menu
+  - Shopping Bag
+  - Payment
+  - Favorite Orders
 - Order management (restaurant)
   - New orders
   - Orders in progress
